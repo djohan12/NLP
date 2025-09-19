@@ -31,13 +31,14 @@ Please find the homework assignment instructions [here](https://docs.google.com/
 * RNN accuracy:
     - Validation: 59.409%
     - Testing:    58.908%
-* Link to saved model: https://github.com/djohan12/NLP/blob/main/homework01/hw1.ipynb
-
+* Link to saved model: https://github.com/djohan12/NLP/blob/main/homework01/rnn_model.pth
+  
 ## Part 3
 * LSTM accuracy: 
     - Validation: 62.010%
     - Testing:    61.149%
-* Link to saved model: https://github.com/djohan12/NLP/blob/main/homework01/hw1.ipynb
+* Link to saved model: https://github.com/djohan12/NLP/blob/main/homework01/lstm_model.pth
+  
 * Free response:
     - RNN:
         
