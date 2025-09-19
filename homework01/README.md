@@ -29,29 +29,31 @@ Please find the homework assignment instructions [here](https://docs.google.com/
 
 ## Part 2
 * RNN accuracy:
-    - Validation: 59.586%
-    - Testing:    59.243%
+    - Validation: 59.409%
+    - Testing:    58.908%
 * Link to saved model: https://github.com/djohan12/NLP/blob/main/homework01/hw1.ipynb
 
 ## Part 3
 * LSTM accuracy: 
     - Validation: 62.010%
-    - Testing:    61.261%
+    - Testing:    61.149%
 * Link to saved model: https://github.com/djohan12/NLP/blob/main/homework01/hw1.ipynb
 * Free response:
     - RNN:
-        <BOS>"I'm not ready to go," said                                                                                                    
-        <BOS>Lily and Max were best friends. One day.  .  . ....                                                                                        
-        <BOS>He picked up the juice andeeey                                                                                                
-        <BOS>It was raining, son nnrnnnnk       rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
-        <BOS>The end of the story was  ..................................................................................................
+        
+        <BOS>"I'm not ready to go," said's and the boy named tim.<EOS>" the boy named tim.<EOS>" the boy named tim.<EOS>" the boy named tim.<EOS>" the boy n
+        <BOS>Lily and Max were best friends. One day with her happy and said, "i'm some and happy and said, "i'm some and happy and said, "i'm some and 
+        <BOS>He picked up the juice andy, he was so happy and said, "i'm some and happy and said, "i'm some and happy and said, "i'm some a
+        <BOS>It was raining, son and said, "i'm some and happy and said, "i'm some and happy and said, "i'm some and happy and said
+        <BOS>The end of the story was and said, "i'm some and happy and said, "i'm some and happy and said, "i'm some and happy and said,
 
     - LSTM:
-        <BOS>"I'm not ready to go," saidy, the boy named timmy.<EOS> the sky and said.<EOS> the boy named timmy.<EOS>.<EOS> the boy named timmy.<EOS> the sky an
-        <BOS>Lily and Max were best friends. One day.<EOS> the sky and said.<EOS> the boy named timmy.<EOS>.<EOS> the boy named timmy.<EOS> the sky and said.<EOS> the boy named
-        <BOS>He picked up the juice andy the sky and said, "i was so happy.<EOS> the sky and said.<EOS> the boy named timmy.<EOS>.<EOS> the boy named timmy
-        <BOS>It was raining, son the sky and said.<EOS> the boy named timmy.<EOS>.<EOS> the boy named timmy.<EOS> the sky and said.<EOS> the boy named 
-        <BOS>The end of the story was on the sky.<EOS>.<EOS> the boy named timmy.<EOS>.<EOS> the boy named timmy.<EOS> the sky and said.<EOS> the boy named timmy
+
+        <BOS>"I'm not ready to go," saidy.<EOS>.<EOS> the said, "i'm sorry, so she was so happy and said, "i'm sorry, so she was so happy and said, 
+        <BOS>Lily and Max were best friends. One day and said, "i'm sorry, so she was so happy and said, "i'm sorry, so she was so happy and said, "i'm 
+        <BOS>He picked up the juice andy said, "i'm sorry, so she was so happy and said, "i'm sorry, so she was so happy and said, "i'm sor
+        <BOS>It was raining, son the store.<EOS> and said, "i'm sorry, so she was so happy and said, "i'm sorry, so she was so happy an
+        <BOS>The end of the story was a big brown and said, "i'm sorry, so she was so happy and said, "i'm sorry, so she was so happy and
 
     a. The RNN handles short-term dependencies whereas the LSTM is able to handle longer streams of text, which has more contextual consistency, but loses grammatical structure over time.
 
