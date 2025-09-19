@@ -31,13 +31,13 @@ Please find the homework assignment instructions [here](https://docs.google.com/
 * RNN accuracy:
     - Validation: 59.586%
     - Testing:    59.243%
-* Link to saved model:
+* Link to saved model: https://github.com/djohan12/NLP/blob/main/homework01/hw1.ipynb
 
 ## Part 3
 * LSTM accuracy: 
     - Validation: 62.010%
     - Testing:    61.261%
-* Link to saved model:
+* Link to saved model: https://github.com/djohan12/NLP/blob/main/homework01/hw1.ipynb
 * Free response:
     - RNN:
         <BOS>"I'm not ready to go," said                                                                                                    
