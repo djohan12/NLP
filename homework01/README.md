@@ -47,7 +47,12 @@ Please find the homework assignment instructions [here](https://docs.google.com/
         <BOS>The end of the story was  ..................................................................................................
 
     - LSTM:
-    
+        <BOS>"I'm not ready to go," saidy, the boy named timmy.<EOS> the sky and said.<EOS> the boy named timmy.<EOS>.<EOS> the boy named timmy.<EOS> the sky an
+        <BOS>Lily and Max were best friends. One day.<EOS> the sky and said.<EOS> the boy named timmy.<EOS>.<EOS> the boy named timmy.<EOS> the sky and said.<EOS> the boy named
+        <BOS>He picked up the juice andy the sky and said, "i was so happy.<EOS> the sky and said.<EOS> the boy named timmy.<EOS>.<EOS> the boy named timmy
+        <BOS>It was raining, son the sky and said.<EOS> the boy named timmy.<EOS>.<EOS> the boy named timmy.<EOS> the sky and said.<EOS> the boy named 
+        <BOS>The end of the story was on the sky.<EOS>.<EOS> the boy named timmy.<EOS>.<EOS> the boy named timmy.<EOS> the sky and said.<EOS> the boy named timmy
+
     a. The RNN handles short-term dependencies whereas the LSTM is able to handle longer streams of text, which has more contextual consistency, but loses grammatical structure over time.
 
     b. The Neural networks are much better than the N-gram models. They are able to understand more context and generate longer consistent text. The N-gram is only able to remember the nth previous words, so the context preservation is much worse.
