@@ -2,6 +2,8 @@
 
 Please find the homework assignment instructions [here](https://docs.google.com/document/d/1K8s_Ecms0cIqRO1PKPFs2bfFVFfZpc1nFoEhtxRlCaM/edit?tab=t.5c3153xm9mha).
 
+*Free response answers are in the ipynb file
+
 ## Part 1
 * Model accuracy: 
 
